@@ -1,0 +1,8 @@
+#0;
+are;1;file.txt;1;#
+#7;
+Hi;2;file.txt;1;file1.txt;1;#
+hello;2;file.txt;2;file1.txt;1;#
+how;1;file.txt;1;#
+#24;
+you;1;file.txt;1;#
